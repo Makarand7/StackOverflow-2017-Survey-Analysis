@@ -65,6 +65,11 @@ We examined how factors like Formal Education and Years of Programming Experienc
 
 These results provide valuable insights for companies in the tech industry, especially for recruitment and employee retention strategies.
 
+## Read the Full Analysis on Medium
+For a detailed exploration of these insights, read my blog post on Medium:
+
+👉 [Cracking the Code: What Developers Want from Their Jobs and Careers : Insights from Stack Overflow’s 2017 Survey](https://medium.com/@makarand.ar777/cracking-the-code-what-developers-want-from-their-jobs-and-careers-insights-from-stack-5b581edb825a)
+
 ## License
 
 This project includes the following licenses:
